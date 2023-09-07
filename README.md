@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mkomer
-I am a Data Science and Business Intelligence professional.
-I work on the Enterprise Applications and Data Goverance team.
+I am a Business Intelligence expert.
+Currently working as an Application Analyst on the Enterprise Applications and Data Goverance team at a Logistics company.
 
-Within this github repository I have began storing my projects from my persoanl efforts and studies. 
+Most of my custom development work has been done proprietarily within organizations. Within this github repository I have begun storing my projects from my persoanl projects and studies. 
