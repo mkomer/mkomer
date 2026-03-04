@@ -3,4 +3,4 @@ I am a pragmatic problem solver with a strong background in Data Warehouse, Prod
 
 Here I will share a sample of some of my work and projects.  
 
-email: mtkomer@outlook.com
+email: mike.komer@outlook.com
