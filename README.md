@@ -4,3 +4,6 @@
 Here I will share a sample of some of my work and projects.  
 
 email: mike.komer@outlook.com
+
+Vibe Code Finance Intelligence Dashboard April 2026 via Google AI Studio;
+<img width="1109" height="849" alt="image" src="https://github.com/user-attachments/assets/dcf35b80-1f26-4eac-b17d-fbb00f268163" />
