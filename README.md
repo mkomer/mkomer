@@ -1,5 +1,5 @@
 # My name is Mike Komer. 
-## I am a pragmatic problem solver with a strong background in Data Warehousing, Business Intelligence, AI, Semantic Daya Layer Building, Production Data Operations, Analytics, and IT Consulting. 
+## I am a pragmatic problem solver with a strong background in Data Warehousing, Business Intelligence, AI, Semantic Data Layer Building, Production Data Operations, Analytics, and IT Consulting. 
 
 Here I will share a sample of some of my work and projects.  
 
